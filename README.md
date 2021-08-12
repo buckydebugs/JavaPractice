@@ -1,2 +1,2 @@
 # JavaPractice
-Some Beginner level java questions
+Some beginner level java questions
